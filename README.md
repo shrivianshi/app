@@ -1,1 +1,1 @@
-# app project
+# shopping app
